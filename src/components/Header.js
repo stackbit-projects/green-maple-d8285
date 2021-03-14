@@ -177,7 +177,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                       data-show-count="true"
                       aria-label="Star on GitHub"
                     >
-                      Star
+                      Starsss
                     </GitHubButton>
                   </li>
                 ) : null}
